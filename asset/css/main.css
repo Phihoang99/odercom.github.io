@@ -31,8 +31,9 @@
 }
 .danh-sach {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     flex-wrap: wrap;
+    padding: 0;
 }
 .contain {
     border: #ccc 2px solid;
