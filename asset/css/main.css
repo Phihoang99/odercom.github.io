@@ -9,13 +9,19 @@
     align-items: center;
     font-size: 30px;
     height: 50px;
-    color: #fff;
     background-color: #000;
     width: 100%;
+}
+.btn-hov:hover {
+    background-color: #ccc;
+    border-radius: 5px;
 }
 .nav-bar a {
     text-decoration: none;
     color: #fff;
+}
+.nav-bar a:hover {
+    color: #000;
 }
 .head-text {
     font-size: 50px;
