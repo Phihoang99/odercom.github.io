@@ -1,5 +1,19 @@
 @media (max-width: 740px) {
+    .head-text {
+        font-size: 35px;
+    }
     .s-nav-bar a {
         font-size: 25px;
+        padding: 0;
+    }
+    .contain > p {
+        font-size: 8px;
     }
 }
+
+@media (min-width: 741px) and (max-width: 1200px) {
+    .s-nav-bar a {
+        padding: 0;
+    }
+}
+
