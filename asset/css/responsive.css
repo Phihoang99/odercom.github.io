@@ -2,9 +2,11 @@
     .head-text {
         font-size: 35px;
     }
-    .s-nav-bar a {
-        font-size: 25px;
+    .nav-bar a {
         padding: 0;
+    }
+    .nav-bar {
+        font-size: 20px;
     }
     .contain > p {
         font-size: 8px;
@@ -12,7 +14,7 @@
 }
 
 @media (min-width: 741px) and (max-width: 1200px) {
-    .s-nav-bar a {
+    .nav-bar a {
         padding: 0;
     }
 }
